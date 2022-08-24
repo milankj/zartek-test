@@ -5,7 +5,7 @@ import One from './components/One'
 import Home from './components/Home'
 import Two from './components/Two'
 import Three from './components/Three'
-import Four from './components/Four'
+import Four from './components/Four/FourParent'
 
 function App() {
   const [datas,setDatas] = useState([])
